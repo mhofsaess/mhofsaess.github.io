@@ -1,7 +1,8 @@
-baseurl: '/homepage2024'
+baseurl: 'mhofsaess.github.io '
 permalink: pretty
 title: 'enviConnect'
 url: https://www.enviconnect.de
+domain: mhofsaess.github.io
 
 google_analytics_id: G-MWHMKFQWF7
 
