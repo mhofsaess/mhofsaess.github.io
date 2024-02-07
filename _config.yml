@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: '/homepage2024'
 permalink: pretty
 title: 'enviConnect'
 url: https://www.enviconnect.de
@@ -60,3 +60,13 @@ exclude:
   - LICENSE
   - README.md
 
+lsi: false
+safe: true
+source: homepage2024
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
