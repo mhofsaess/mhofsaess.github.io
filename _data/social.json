@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Linkedin",
+    "link": "https://de.linkedin.com/company/enviconnect",
+    "image": "images/social/linkedIn.svg"
+  },
+  {
+      "name": "Email",
+      "link": "mailto:info@enviconnect.de ",
+      "image": "images/social/email.svg"
+  }
+]
