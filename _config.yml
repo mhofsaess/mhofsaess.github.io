@@ -1,4 +1,4 @@
-baseurl: 'mhofsaess.github.io '
+baseurl: 'mhofsaess.github.io'
 permalink: pretty
 title: 'enviConnect'
 url: https://www.enviconnect.de
@@ -63,7 +63,7 @@ exclude:
 
 lsi: false
 safe: true
-source: homepage2024
+source: mhofsaess.github.io
 incremental: false
 highlighter: rouge
 gist:
